@@ -1,5 +1,7 @@
 # 便签日程（ScheduleRemindNote）
-
+    
+![封面](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%AA%97%E4%BD%93.png)   
+    
 **下载方式（v4.0）**
 - 
 - 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv4.0.rar)   
@@ -18,21 +20,27 @@
 **主窗体**  
 - 中心：当前日程事件
 - 标题：事件与时间
-- 左侧：当前时间于一天位置
-- 下方：事件完成度
-- 右上：置顶与否  
-
+- 左侧：当前时间于一天位置（悬停鼠标显示详细百分比）
+- 下方：事件完成度（悬停鼠标显示详细百分比）
+- 右上：置顶与否   
+    
+![主窗体截图](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%AA%97%E4%BD%93.png)     
+   
 **编辑窗体**  
 - 左上：日程选择切换
 - 左中：所选日程标题
 - 左下：所选日程内容（时间和事件）
 - 右上：确定和取消对应是否保存再返回
-- 右中：保存可以保存编辑后的日程但不应用，问号查看格式帮助  
-
+- 右中：保存可以保存编辑后的日程但不应用，问号查看格式帮助   
+   
+![编辑窗体截图](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E7%BC%96%E8%BE%91%E7%AA%97%E4%BD%93.png)    
+   
 **总览窗体**   
 - 左侧：全天时间刻度
 - 右侧：所选日程事件分布
-
+   
+![总览窗体截图](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E6%80%BB%E8%A7%88%E7%AA%97%E4%BD%93.png)   
+   
 **功能**
 -  
 - 滚轮：调节主窗体**透明度**
@@ -42,6 +50,8 @@
 - **置顶**切换：主窗体右上方的图钉图标或托盘右键
 - **任务栏显示**切换：托盘右键  
 - **开启自启**切换：托盘右键（需要先以管理员身份运行程序）  
+   
+![提醒截图](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E6%88%AA%E5%9B%BE/%E6%8F%90%E7%A4%BA.png)
     
 **更新日志**
 -    
