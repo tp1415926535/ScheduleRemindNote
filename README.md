@@ -1,6 +1,6 @@
 # 便签日程（ScheduleRemindNote）
     
-![封面](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%AA%97%E4%BD%93.png)   
+![封面](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E5%B0%81%E9%9D%A2.png)   
     
 **下载方式（v4.0）**
 - 
