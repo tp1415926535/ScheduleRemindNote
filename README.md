@@ -4,8 +4,10 @@
     
 **下载方式（v4.0）**
 - 
-- 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv4.0.rar)   
-- 方式2：[蓝奏云](https://wws.lanzous.com/iaGwdiuqtfi)     
+*检测到bug 修复中……
+
+- ~~方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv4.0.rar)~~   
+- ~~方式2：[蓝奏云](https://wws.lanzous.com/iaGwdiuqtfi)~~     
 
 解压后运行“便签日程.exe”即可。
    
