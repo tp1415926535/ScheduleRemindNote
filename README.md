@@ -2,10 +2,10 @@
     
 ![封面](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E5%B0%81%E9%9D%A2.png)   
     
-**下载方式（v4.0）**
+**下载方式（v4.1）**
 - 
-- 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv4.0.rar)   
-- 方式2：[蓝奏云](https://wws.lanzous.com/iiKqAj0my5a)       
+- 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv4.1.rar)   
+- 方式2：[蓝奏云](https://wwe.lanzoui.com/iBQVLp3fdwd)       
     
 解压后运行“便签日程.exe”即可。
    
@@ -55,6 +55,7 @@
     
 **更新日志**
 -    
+- v4.1：2021/05/13 新增**字体**设置，和文字长度**自适应**；
 - v4.0：2020/11/30 **重构**绝大部分代码，提高逻辑性和健壮性；改变**输入格式**，更加符合日常习惯；新增了其他配置缓存；
 - v3.1：2020/11/14 更改提示方式为**系统通知**；改变**保存方式**，大幅降低文件依赖性；
 - v3.0：2020/5/17 采用**区块图**显示列表，增加悬停提示；
