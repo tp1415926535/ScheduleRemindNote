@@ -1,6 +1,14 @@
 # 便签日程（ScheduleRemindNote）
-       
-    
+   
+主界面：       
+![主界面](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)    
+  
+鼠标悬停时主界面：   
+![鼠标悬停时主界面](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%95%8C%E9%9D%A2UI.png)      
+
+
+
+        
 **下载方式（v5.0.0.0）**
 - 
 - 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv5.0.0.0.zip)   
@@ -10,8 +18,15 @@
    
 **使用说明**
 - 
-　打开exe程序后显示**主窗体**，主要**显示当前**事件与进度，到时间会自动切换并发出通知。   
-　右上角可设置日程内容和样式。
+打开exe程序后显示**主窗体**，主要**显示当前**事件与进度，到时间会自动切换并在系统右下角弹出通知。   
+ ![系统通知](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E9%80%9A%E7%9F%A5.png)     
+    
+日程设置：     
+![日程设置](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE%E6%97%A5%E7%A8%8B.png)      
+           
+系统设置：     
+![系统设置](https://github.com/tp1415926535/ScheduleRemindNote/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE%E7%B3%BB%E7%BB%9F.png)
+
     
 **更新日志**
 -    
