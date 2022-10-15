@@ -9,7 +9,7 @@
 
 
         
-**下载方式（v5.0.0.0）**
+**下载方式（v5.0.0.1）**
 - 
 - 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv5.0.0.1.zip)   
 - 方式2：[蓝奏云](https://wwp.lanzouw.com/izPmJ0dwyt2b)       
