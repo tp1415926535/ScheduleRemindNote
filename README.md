@@ -11,8 +11,8 @@
         
 **下载方式（v5.0.0.0）**
 - 
-- 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv5.0.0.0.zip)   
-- 方式2：[蓝奏云](https://wwp.lanzouw.com/iUyNv0cr0rda)       
+- 方式1：[GitHub](https://github.com/tp1415926535/ScheduleRemindNote/raw/main/%E4%BE%BF%E7%AD%BE%E6%97%A5%E7%A8%8Bv5.0.0.1.zip)   
+- 方式2：[蓝奏云](https://wwp.lanzouw.com/izPmJ0dwyt2b)       
     
 解压后运行“便签日程.exe”即可。
    
@@ -30,6 +30,7 @@
     
 **更新日志**
 -    
+- v5.0.0.1：2022/10/11 修复设置页面字体不更新为当前字体。
 - v5.0.0.0：2022/10/01 重构代码，采用全新框架。支持无限日程列表，更改时间录入方式，实时预览总体概况；
 - v4.1：2021/05/13 新增**字体**设置，和文字长度**自适应**；
 - v4.0：2020/11/30 **重构**绝大部分代码，提高逻辑性和健壮性；改变**输入格式**，更加符合日常习惯；新增了其他配置缓存；
